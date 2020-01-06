@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import ShoppingList from "./shoppingList";
-import TopBar from "./topBar/topbar";
+import ShoppingList from "./shoppingList.js";
+import TopBar from "./topBar/topbar.js";
 
 import "./styles.css";
 
