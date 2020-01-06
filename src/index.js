@@ -10,9 +10,6 @@ function App() {
   return (
     <div className="App">
       <TopBar />
-
-      <h1>React Example</h1>
-      <h2>Create components!</h2>
     </div>
   );
 }
